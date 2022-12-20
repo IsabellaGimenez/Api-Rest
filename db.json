@@ -1,0 +1,138 @@
+{
+    "Tatuagens":[
+        {
+            "id":1,
+            "desenho": "caveira",
+            "estilo": "Blackwork",
+            "cor": "preto"
+        },
+        {
+            "id":2,
+            "desenho": "gato",
+            "estilo": "Geométrico",
+            "cor": "preto"
+        },
+        {
+            "id":3,
+            "desenho": "coração",
+            "estilo": "old school",
+            "cor": "vermelho"
+        },
+        {
+            "id":4,
+            "desenho": "chave",
+            "estilo": "pontilhismo",
+            "cor": "preto"
+        },
+        {
+            "id":5,
+            "desenho": "maçã",
+            "estilo": "minimalista",
+            "cor": "verde"
+        },
+        {
+            "id":6,
+            "desenho": "rosa",
+            "estilo": "single Line",
+            "cor": "preto"
+        },
+        {
+            "id":7,
+            "desenho": "monalisa",
+            "estilo": "Glitch",
+            "cor": "colorido"
+        },
+        {
+            "id":8,
+            "desenho": "nome",
+            "estilo": "tinta branca",
+            "cor": "branca"
+        },
+        {
+            "id":9,
+            "desenho": "leão",
+            "estilo": "Realista",
+            "cor": "colorida"
+        },
+        {
+            "id":10,
+            "desenho": "coruja",
+            "estilo": "maori",
+            "cor": "preto"
+        }
+    ],
+    "Clientes": [
+        {
+            "id":1,
+            "nome": "cláudia Sampaio",
+            "estilo": "Geométrico",
+            "desenho": "caneta",
+            "preço": "R$70,00"            
+        },
+        {
+            "id":2,
+            "nome": "Pedro Costa",
+            "estilo": "old School",
+            "desenho": "rosa",
+            "preço": "R$300,00"            
+        },
+        {
+            "id":3,
+            "nome": "Fabiana Araújo",
+            "estilo": "Geométrico",
+            "desenho": "Mandala",
+            "preço": "R$200,00"            
+        },
+        {
+            "id":1,
+            "nome": "Renato Ribeiro",
+            "estilo": "Realista",
+            "desenho": "Olho",
+            "preço": "R$700,00"            
+        }
+    ],
+    "funcionario": [
+        {
+            "id":1,
+            "nome": "Leonardo Gomes",
+            "cargo": "Tatuador",
+            "idade": 23,
+            "Salário": "R$3.000,00"            
+        },
+        {
+            "id":2,
+            "nome": "Vanessa Motta",
+            "cargo": "Tatuadora",
+            "idade": 25,
+            "Salário": "R$3.000,00"            
+        },
+        {
+            "id":3,
+            "nome": "Daiana Cabral",
+            "cargo": "Recepcionista",
+            "idade": 20,
+            "Salário": "R$1.500,00"            
+        },
+        {
+            "id":4,
+            "nome": "Sérgio Costa",
+            "cargo": "Auxiar de Serviços Gerais",
+            "idade": 42,
+            "Salário": "R$1.500,00"            
+        },
+        {
+            "id":5,
+            "nome": "Henrrique Cavalliera",
+            "cargo": "Proprietário",
+            "idade": 40,
+            "Salário": "indefinido"            
+        },
+        {
+            "id":6,
+            "nome": "Carina Silva",
+            "cargo": "Assistente Adm",
+            "idade": 28,
+            "Salário": "R$2.500,00"            
+        }
+    ]   
+}

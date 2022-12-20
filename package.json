@@ -1,0 +1,23 @@
+{
+  "name": "apirest",
+  "version": "1.0.0",
+  "description": "Rest api de tatuagem",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IsabellaGimenez/Api-Rest.git"
+  },
+  "keywords": [],
+  "author": "Isabella Gimenez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsabellaGimenez/ApiRest/issues"
+  },
+  "homepage": "https://github.com/IsabellaGimenez/ApiRest#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
