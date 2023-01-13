@@ -145,5 +145,31 @@
             "idade": 28,
             "Salário": "R$2.500,00"            
         }
-    ]   
+    ],
+    "pedidos": [
+        {
+            "id":1,
+            "nome": "Carolina Serra",
+            "estilo": "blackwork",
+            "desenho": "Lobo",
+            "cor": "preto"
+            "local": "Costas"
+        },
+          {
+            "id":2,
+            "nome": "Marlon de Castro",
+            "estilo": "realista",
+            "desenho": "posseidon",
+            "cor": "preto"
+            "local": "braço"
+        },
+          {
+            "id":3,
+            "nome": "Cassio da silva Reis",
+            "estilo": "realista",
+            "desenho": "Coringa do batman",
+            "cor": "preto"
+            "local": "perna"
+        }
+     ]
 }
