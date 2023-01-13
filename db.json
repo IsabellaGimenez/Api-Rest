@@ -5,60 +5,71 @@
             "desenho": "caveira",
             "estilo": "Blackwork",
             "cor": "preto"
+            "imagem" : "https://i.pinimg.com/564x/5e/5c/82/5e5c821bfb20744fdcfaf0769d9934c8.jpg"
         },
         {
             "id":2,
             "desenho": "gato",
             "estilo": "Geométrico",
             "cor": "preto"
+            "imagem" : "https://pin.it/2Yz6MTo"
         },
         {
             "id":3,
             "desenho": "coração",
             "estilo": "old school",
             "cor": "vermelho"
+            "imagem" : "https://pin.it/5tDmR8Y"
+            
         },
         {
             "id":4,
             "desenho": "chave",
             "estilo": "pontilhismo",
             "cor": "preto"
+            "imagem" : "https://pin.it/1v64K33"
         },
         {
             "id":5,
             "desenho": "maçã",
             "estilo": "minimalista",
             "cor": "verde"
+            "imagem" : "https://pin.it/2D2Qt4v"
         },
         {
             "id":6,
             "desenho": "rosa",
             "estilo": "single Line",
             "cor": "preto"
+            "imagem" : "https://pin.it/5uFT8aB"
         },
         {
             "id":7,
             "desenho": "monalisa",
             "estilo": "Glitch",
             "cor": "colorido"
+            "imagem" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAmCRxpJjMwfOroYfc-zzH9lnIgWDKugOuLU6zcOc-TBc9tnQhRETcBx-WfX-OVWw4eXw&usqp=CAU"
         },
         {
             "id":8,
-            "desenho": "nome",
+            "desenho": "renda",
             "estilo": "tinta branca",
             "cor": "branca"
+            "imagem" : "https://pin.it/2dN7H1n"
         },
         {
             "id":9,
             "desenho": "leão",
             "estilo": "Realista",
             "cor": "colorida"
+            "imagem" : "https://pin.it/55ly1Zv"
         },
         {
             "id":10,
             "desenho": "coruja",
             "estilo": "maori",
             "cor": "preto"
+            "imagem" : "https://pin.it/2BwZ2GW"
         }
     ],
     "Clientes": [
